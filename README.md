@@ -32,7 +32,4 @@ https://startling-biscochitos-ad6e7e.netlify.app/
 5. Tested application functionality.
 6. Deployed and managed the project using AWS services.
 
- ## Documentation
-
-📄 [Project Report PDF](Online_Quiz_Project_Report.pdf)
-
+ 
