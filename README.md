@@ -19,6 +19,10 @@ AWS Online Quiz Platform is a cloud-based web application developed using HTML, 
 * JavaScript
 * AWS
 
+## Documentation
+
+📄 [Project Report PDF](Online%20Quiz%20Platform%20Using%20AWS%20Cloud%20Services.pdf)
+
 ## Live Demo
 
 https://startling-biscochitos-ad6e7e.netlify.app/
